@@ -18,6 +18,7 @@
 * Tremor no longer requires a home dir for operations that do not need a config [#782](https://github.com/tremor-rs/tremor-runtime/issues/782)
 * Add performance section to PR template.
 * Fix markdown for discord link.
+* Do not crash when we can not execute a config file [#792](https://github.com/tremor-rs/tremor-runtime/issues/792)
 
 ## 0.10.2
 
